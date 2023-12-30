@@ -33,7 +33,8 @@ WatchCart is the e-commerce website to buy watches with a proper admin panel and
 1. Users can add reviews.
 2. Users can add ratings.
 3. Login through a Google account.
-# Problems Faced
-I tried deploying through the Cyclic website but failed to deploy. I will fix this as soon as possible.
+# Deployment
+This wesite is deployed in Netlify Webiste.
+Link to the website: https://658fcae8bae3c0432f8ff44d--animated-hamster-2c5633.netlify.app/
 # Drive Link
 https://drive.google.com/drive/folders/1cYKlRj_LwSSpx0f5zHhVT0Ijh1xJf9t8
